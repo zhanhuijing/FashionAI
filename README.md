@@ -13,7 +13,7 @@ Here we provide valuable and useful resources for AI-driven fashion analysis!
 ### Papers
 
 Areas
-* [Fashion Recommendation](#fashion-embeddings)
+* [Fashion Recommendation](#Fashion Recommendation)
 
 
 #### Fashion Recommendation
