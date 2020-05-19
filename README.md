@@ -1,6 +1,6 @@
 # Welcome to the fantasy Fashion+AI world!
 
-In this fashion+AI world, we provide valuable and useful resources for AI-driven fashion analysis!
+Here we provide valuable and useful resources for AI-driven fashion analysis!
 ## Table of Contents
 
 * [Papers](#papers)
