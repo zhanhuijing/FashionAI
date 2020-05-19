@@ -22,6 +22,12 @@ Areas
 ##### General Recommendation
   - [Learning Similarity ConditionsWithout Explicit Supervision](https://arxiv.org/abs/1908.08589)
   
+#### Fashion Style Modeling
+  - [Styling with Attention to Details](https://arxiv.org/abs/1905.01866)
+  *author:Ayushi Dalmia, Sachindra Joshi, Raghavendra Singh, Vikas Raykar*
+  *Problem: Given a set of fashion items, generate a compmlementary fashion item based on the style info learnt by the model.
+  
+
 
 ### Workshops
 * KDD Workshop on AI for Fashion [2019](https://kddfashion2019.mybluemix.net/), [2018](https://kddfashion2018.mybluemix.net/), [2017](https://kddfashion2017.mybluemix.net/), [2016](http://kddfashion2016.mybluemix.net/)
