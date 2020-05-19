@@ -24,7 +24,7 @@ Areas
   
 #### Fashion Style Modeling
   - [Styling with Attention to Details](https://arxiv.org/abs/1905.01866) <br/>
-  *Author:[Ayushi Dalmia](https://ayushidalmia.github.io/), Sachindra Joshi, Raghavendra Singh, Vikas Raykar*&nbsp;
+  *Author:[Ayushi Dalmia](https://ayushidalmia.github.io/), Sachindra Joshi, Raghavendra Singh, Vikas Raykar*&nbsp; <br/>
   *Problem: Given a set of fashion items, generate a compmlementary fashion item based on the style info learnt by the model.*
   
 
