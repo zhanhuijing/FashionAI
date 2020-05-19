@@ -23,7 +23,7 @@ Areas
   - [Learning Similarity ConditionsWithout Explicit Supervision](https://arxiv.org/abs/1908.08589)
   
 #### Fashion Style Modeling
-  - [Styling with Attention to Details](https://arxiv.org/abs/1905.01866)&nbsp;
+  - [Styling with Attention to Details](https://arxiv.org/abs/1905.01866) <br/>
   *Author:[Ayushi Dalmia](https://ayushidalmia.github.io/), Sachindra Joshi, Raghavendra Singh, Vikas Raykar*&nbsp;
   *Problem: Given a set of fashion items, generate a compmlementary fashion item based on the style info learnt by the model.*
   
