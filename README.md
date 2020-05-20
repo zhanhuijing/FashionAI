@@ -25,7 +25,7 @@ Areas
   - [Outfit Generation and Style Extraction via Bidirectional LSTM and Autoencoder](https://arxiv.org/pdf/1807.03133.pdf) <br/>
   *Author: Takuma Nakamura* <br/>
   *Task:* Given a query item and style specification, the task is to generate outfits of that style. <br/>
-  -[Personalized Capsule Wardrobe Creation with Garment and User Modeling](https://liqiangnie.github.io/paper/PersonalizedCapsuleWardrobeCreationwithGarmentandUserModeling.pdf) <br/>
+  - [Personalized Capsule Wardrobe Creation with Garment and User Modeling](https://liqiangnie.github.io/paper/PersonalizedCapsuleWardrobeCreationwithGarmentandUserModeling.pdf) <br/>
   *Author: [Xuemeng Song](https://xuemengsong.github.io/)* <br/>
   *Task:* Create personal wardrobe considering user preference and body shape <br/>
   
