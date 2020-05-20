@@ -20,7 +20,7 @@ Areas
 ##### Personalized Recommendation
   - [POG Personalized Outfit Generation for Fashion Recommendation at Alibaba Fashion](https://arxiv.org/abs/1905.01866)
   - [Automated Fashion Size Normalization](https://arxiv.org/pdf/1908.09980.pdf) <br/>
-  *Author: [Eddie S.J. Du](http://www.cs.toronto.edu/~dushu/)*
+  *Author: [Eddie S.J. Du](http://www.cs.toronto.edu/~dushu/)* <br/>
   *Task:* automate the size normalization via sales data.
   - [Outfit Generation and Style Extraction via Bidirectional LSTM and Autoencoder](https://arxiv.org/pdf/1807.03133.pdf)
   *Author: Takuma Nakamura*
